@@ -1,0 +1,8 @@
+#Sublime Text 3 Config
+https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
+
+#Python Tutorial
+https://docs.python.org/2/tutorial/introduction.html
+
+#Scrapy Tutorial
+https://doc.scrapy.org/en/latest/intro/tutorial.html
